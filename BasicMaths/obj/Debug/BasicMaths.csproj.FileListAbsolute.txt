@@ -1,0 +1,8 @@
+D:\visual\BasicMaths\BasicMaths\bin\Debug\BasicMaths.exe.config
+D:\visual\BasicMaths\BasicMaths\bin\Debug\BasicMaths.exe
+D:\visual\BasicMaths\BasicMaths\bin\Debug\BasicMaths.pdb
+D:\visual\BasicMaths\BasicMaths\obj\Debug\BasicMaths.csproj.AssemblyReference.cache
+D:\visual\BasicMaths\BasicMaths\obj\Debug\BasicMaths.csproj.SuggestedBindingRedirects.cache
+D:\visual\BasicMaths\BasicMaths\obj\Debug\BasicMaths.csproj.CoreCompileInputs.cache
+D:\visual\BasicMaths\BasicMaths\obj\Debug\BasicMaths.exe
+D:\visual\BasicMaths\BasicMaths\obj\Debug\BasicMaths.pdb
